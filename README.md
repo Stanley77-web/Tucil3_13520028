@@ -38,8 +38,11 @@ Spesifikasi program adalah sebagai berikut:
 
 ## Tampilan Program
 Tampilan Program dalam CLI adalah sebagai berikut
+
   ![image](https://media.discordapp.net/attachments/941288781401698307/960519180787011734/unknown.png?width=1260&height=662)
+
 Tampilan Program dalam GUI adalah sebagai berikut
+
   ![image](https://media.discordapp.net/attachments/941288781401698307/960518709775061002/unknown.png?width=495&height=663)
 
 ## Penggunaan
@@ -98,6 +101,7 @@ Untuk file executable CLI :
   _untuk file konfigurasi harus file ```.txt``` berisi matrix 4 x 4 berisi angka-angka 1 - 15 dan 16 untuk menunjukan kotak kosong, seperti gambar dibawah ini :_
 
   ![image](https://media.discordapp.net/attachments/941288781401698307/960543157974626374/unknown.png)
+  
 Selamat Mencoba!
   _untuk cli disarankan dijalankan melalui windows terminal dengan memasukan command line ```./"Puzzle15Solver(CLI)"``` karena jika langsung melalui executable akan membuka melalui terminal cmd dan ada beberapa simbol yang tidak muncul di terminal cmd_
   
