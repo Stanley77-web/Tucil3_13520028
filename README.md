@@ -33,7 +33,6 @@ Spesifikasi program adalah sebagai berikut:
 ## Teknologi Digunakan
 - [Python - version 3.10.2](https://id.wikipedia.org/wiki/Python_(bahasa_pemrograman)) 
 - [Pip - version 22.0.3](https://en.wikipedia.org/wiki/Pip_(package_manager))
-- [Visual Studio Code](https://code.visualstudio.com/) **Disarankan**
 - [Windows OS - version 10+](https://en.wikipedia.org/wiki/Microsoft_Windows) **Disarankan**
 
 ## Tampilan Program
@@ -101,7 +100,7 @@ Untuk file executable CLI :
   _untuk file konfigurasi harus file ```.txt``` berisi matrix 4 x 4 berisi angka-angka 1 - 15 dan 16 untuk menunjukan kotak kosong, seperti gambar dibawah ini :_
 
   ![image](https://media.discordapp.net/attachments/941288781401698307/960543157974626374/unknown.png)
-  
+
 Selamat Mencoba!
   _untuk cli disarankan dijalankan melalui windows terminal dengan memasukan command line ```./"Puzzle15Solver(CLI)"``` karena jika langsung melalui executable akan membuka melalui terminal cmd dan ada beberapa simbol yang tidak muncul di terminal cmd_
   
